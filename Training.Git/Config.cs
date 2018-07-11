@@ -1,1 +1,1 @@
-﻿
+﻿/// a config file
